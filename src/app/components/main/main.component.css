@@ -1,0 +1,12 @@
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+.fc-event {
+  cursor: move;
+}
