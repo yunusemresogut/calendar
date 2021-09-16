@@ -15,7 +15,7 @@ export class MainComponent implements OnInit {
     headerToolbar: {
       left: 'prev,next today',
       center: 'title',
-      right: 'dayGridMonth, timeGridWeek, timeGridDay, listWeek, listMonth'
+      right: 'dayGridMonth, timeGridWeek, timeGridDay, listMonth'
     },
     locales: [trLocale],
     locale: 'tr',
